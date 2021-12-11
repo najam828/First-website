@@ -50,8 +50,8 @@ nav a img{
     color:grey;
 }
 #nav-links ul li:hover{
-    background-color: cornsilk;
-    border: solid brown;
+    background-color: rgba(236, 236, 240,0.3);
+    border: solid rgb(0, 0, 0,0.6);
 }
 #nav-links ul li .abc ul{
     display: none;
